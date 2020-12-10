@@ -1,13 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" );
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Amaranth:wght@400;700&display=swap");
 
-
-
 body {
-    background:  url('img/0-intro2.png');
-		background-repeat: no-repeat;
-    background-color: #DCCBC1;
-    font-style: 'Open Sans', sans-serif;
+    background: url("img/0-intro2.png");
+    background-repeat: no-repeat;
+    background-color: #dccbc1;
+    font-style: "Open Sans", sans-serif;
     font-weight: 400;
 }
 
@@ -28,7 +26,7 @@ h3 {
     font-family: "Amaranth";
     color: #0f1d4d;
     font-weight: 700;
-    }
+}
 
 h4 {
     font-family: "Amaranth";
@@ -46,9 +44,7 @@ h5 {
 p {
     font-family: "Open Sans";
     color: #0f1d4d;
-
     font-weight: 400;
-    width: 600px;
 }
 
 p2 {
@@ -81,36 +77,36 @@ p2 {
 }
 
 .card {
-        width: 610px;
-        height: -10;
-				margin-bottom: 30px;
-				margin-top: 30px;
-				background-color: #DCCBC1;
-				border: hidden;
-        position: relative;
-        display: inline-block;
-    }
-    .card .img-top {
-        display: none;
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: 99;
-    }
-    .card:hover .img-top {
-        display: inline;
-    }
+    width: 610px;
+    height: -10;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: #dccbc1;
+    border: hidden;
+    position: relative;
+    display: inline-block;
+}
+.card .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.card:hover .img-top {
+    display: inline;
+}
 
-    footer {
-        background-color: #0f1d4d;
-        color: white;
-        font-size: 80%;
-    }
+footer {
+    background-color: #0f1d4d;
+    color: white;
+    font-size: 80%;
+}
 
-    footer a {
-        color: white;
-    }
+footer a {
+    color: white;
+}
 
-    footer a:hover {
-        color: #dccbc1;
-    }
+footer a:hover {
+    color: #dccbc1;
+}
