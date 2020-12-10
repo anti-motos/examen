@@ -51,31 +51,6 @@ p2 {
     color: white;
 }
 
-.st0 {
-    fill: none;
-    stroke: #61637b;
-    stroke-width: 30;
-    stroke-miterlimit: 10;
-}
-.st1 {
-    fill: none;
-    stroke: #8a8593;
-    stroke-width: 30;
-    stroke-miterlimit: 10;
-}
-.st2 {
-    fill: none;
-    stroke: #0f1d4d;
-    stroke-width: 30;
-    stroke-miterlimit: 10;
-}
-.st3 {
-    fill: none;
-    stroke: #384064;
-    stroke-width: 30;
-    stroke-miterlimit: 10;
-}
-
 .card {
     width: 610px;
     height: -10;
